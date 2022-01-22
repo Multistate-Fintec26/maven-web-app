@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.8.161:4000/repository/ebay-bts-snapshot/</url>
+	      <url>http://3.86.25.235:4000/repository/cos-school-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
