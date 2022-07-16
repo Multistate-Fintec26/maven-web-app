@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.233.128.96:3000/repository/walmat-CI-snapshot/</url>
+	      <url>//http://34.233.128.96:3000/repository/walmat-CI-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
